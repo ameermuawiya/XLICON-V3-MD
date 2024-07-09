@@ -2,7 +2,7 @@
   "name": "Xlicon-MD",
   "version": "3.0.5",
   "description": "Xlicon-MD, A modular advanced wabot",
-  "logo": "https://i.ibb.co/FsvbwqF/XLICON.jpg",
+  "logo": "https://i.ibb.co/Cb81NxN/251.jpg",
   "keywords": ["whatsapp", "bot", "md", "multi-device", "Xlicon", "Xlicon-MD", "wabot", "termux-bot", "sc-bot"],
   "repository": "https://github.com/salmanytofficial/XLICON-V3-MD",
   "stack": "container",
@@ -10,12 +10,12 @@
     "SUDO": {
       "description": "Add Owwner Number Here",
       "required": true,
-      "value": "923184070915"
+      "value": "923423071137"
     },
     "SUDO_NAME": {
       "description": "Add Your Name Here",
       "required": true,
-      "value": "SᴀʟᴍᴀɴSᴇʀ"
+      "value": "𝐀𝐌𝐄𝐄𝐑 𝐌𝐔𝐀𝐖𝐈𝐘𝐀"
     },
      "HKEY": {
       "description": "Put your Heroku api key Here , Get one from here https://dashboard.heroku.com/account",
@@ -35,27 +35,27 @@
     "BOT_NAME": {
       "description": "Set Your Bot Name Here",
       "required": false,
-      "value": "Xʟɪᴄᴏɴ_Mᴅ_V3"
+      "value": "𝐀𝐌𝐄𝐄𝐑 𝐌𝐔𝐀𝐖𝐈𝐘𝐀"
     },
      "PACK_NAME": {
       "description": "Enter Pack Name Here",
       "required": false,
-      "value": "𝐗𝐋𝐈𝐂𝐎𝐍-𝐕𝟑"
+      "value": "𝐀𝐌𝐄𝐄𝐑 𝐌𝐔𝐀𝐖𝐈𝐘𝐀-𝐕𝟑"
      },
      "AUTHER_NAME": {
       "description": "Enter Auther Name Here",
       "required": false,
-      "value": "ＭＡＤＥ   ＢＹ   ＳＡＬＭＡＮ"
+      "value": "ＭＡＤＥ   ＢＹ   𝐀𝐌𝐄𝐄𝐑 𝐌𝐔𝐀𝐖𝐈𝐘𝐀"
      },
      "GL_VIP": {
       "description": "Enter Premium Members Numbers [ Each Saperated By Comma ]",
       "required": false,
-      "value": "923184070915,923264476886"
+      "value": "923423071137,923472207399"
      },
     "WELCOME_MSG": {
       "description": "Welcome Message True/False",
       "required": false,
-      "value": "true"
+      "value": "false"
      },
     "MENU_DESIGN": {
       "description": "Choose Any Style v1 => v8",
